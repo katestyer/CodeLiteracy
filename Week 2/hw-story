@@ -22,7 +22,7 @@ noun4 = raw_input("Enter one last plural noun: ")
 story = "There are roughly three " + city1 + "'s. There is first, the " + city1 + \
 " of the man or woman who " + verbpast1 + " here, who " + verbpres1 + \
 " the city and accepts its " + noun1 + " and its " + noun2 + " as " + adj1 + \
-" and " + adj2 + "." + " Second, there is the New York of the " + noun3 + \
+" and " + adj2 + "." + " Second, there is the " + city1 + " of the " + noun3 + \
 "-- the city that " + animal1 + " " + verbpres2 + " each day and " + \
 verbpres3 + " each night. " + "Third, there is the " + city1 + \
 " of the person who " + verbpast2 + " somewhere else and came to " + \
