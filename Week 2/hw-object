@@ -1,0 +1,8 @@
+myApt = {
+	"location": "Williamsburg, Brooklyn",
+	"rent": "too damn high",
+	"bedrooms": "1",
+	"floors": "hardwood",
+	"cross-streets": "Broadway and Hooper"
+}
+print myApt
