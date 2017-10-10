@@ -1,9 +1,0 @@
-FiveBoroughs = True #there are five boroughs in NCY
-ToDo = ["reading", "homemade switch", "eat", "sleep"]
-BatteriesIBought = 10 #because Physical Computing is hard
-DonaldTrump = {
-	"color:" "orange",
-	"mental_health:" "unstable",
-	"leadership_style": "authoritarian",
-	"communication_skills": "lies"
-}
