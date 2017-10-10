@@ -1,2 +1,2 @@
 # CodeLiteracy
-https://fat.gfycat.com/QuarrelsomeMintyElkhound.gif
+<img src = "https://fat.gfycat.com/QuarrelsomeMintyElkhound.gif">
