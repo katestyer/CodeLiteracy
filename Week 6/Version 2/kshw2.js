@@ -2,7 +2,7 @@ function setup() {
   createCanvas(800, 800);
   background(0);
   noStroke();
-  noLoop();
+  //noLoop(); // if you turn this back on, it's less likely you'll have a stroke
 }
 
 function draw() {
