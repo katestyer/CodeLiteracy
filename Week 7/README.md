@@ -13,10 +13,10 @@ for (var y = 0; y < video.height; y++) {
       
 I ended up making a more visual sketch for myself to get it: 
 
-* [rgb][rgb][rgb][][][][][]
-* [rgb][rgb][][][][][]
-* [][][][]
-* [][][][]
+[rgb][rgb][rgb][][][][][]
+[rgb][rgb][][][][][]
+[][][][]
+[][][][]
 
 This shows to me that for every point on the y, the computer reads the rgb values of each...
 
