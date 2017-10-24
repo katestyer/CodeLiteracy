@@ -1,9 +1,9 @@
 var video;
 
-var vScale = 17;
+var vScale = 11;
 
 function setup() {
-  createCanvas(640, 480);
+  createCanvas(800, 600);
   pixelDensity(1);
   video = createCapture(VIDEO);
   video.size(width/vScale, height/vScale);
@@ -11,7 +11,7 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background(5,19,43);
 
   video.loadPixels();
   loadPixels();
@@ -27,10 +27,12 @@ function draw() {
       var w = map(bright, 0, 255, 0, vScale);
       
 
-      noStroke();
-      //fill(255);
-      fill(random(255), random(255), random(255));
-      rectMode(CENTER);
+      strokeWeight(2);
+      stroke(75);
+      //stroke(random(255), random(255), random(255));
+      fill(252, 212, 247);
+      //fill(random(255), random(255), random(255));
+      ellipseMode(CENTER);
       ellipse(x*vScale, y*vScale, w, w);
 
     }
@@ -39,7 +41,7 @@ function draw() {
 }
 
 
-/*
+/* Understanding how the grid works...
 * [rgb][rgb][rgb][][][][][]
 * [rgb][rgb][][][][][]
 * [][][][]
