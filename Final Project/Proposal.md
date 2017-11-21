@@ -1,4 +1,4 @@
-## Code Literacy Final Project Proposal
+## Final Project Proposal
 
 Team: Glenda, Kate and Paula
 
